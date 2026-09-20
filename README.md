@@ -52,7 +52,22 @@ Expected output:
 ALL BASIC TESTS PASSED.
 
 ## Screenshots
-Screenshots of the running application and testing results will be added here.
+### 1. Account Creation and Balance Check
+![Account Creation and Balance](Screenshot%202026-09-20%20at%2016.01.29.png)
+### 2. Withdrawal
+![Withdrawal](Screenshot%202026-09-20%20at%2016.01.42.png)
+### 3. Deposit
+![Deposit](Screenshot%202026-09-20%20at%2016.02.02.png)
+### 4. Money Transfer
+![Money Transfer](Screenshot%202026-09-20%20at%2016.02.34.png)
+### 5. Transaction History
+![Transaction History](Screenshot%202026-09-20%20at%2016.02.51.png)
+### 6. Report an Issue
+![Report an Issue](Screenshot%202026-09-20%20at%2016.03.35.png)
+### 7. Exit
+![Exit](Screenshot%202026-09-20%20at%2016.03.52.png)
+### 8. Testing
+![Testing](Screenshot%202026-09-20%20at%2016.05.28.png)
 
 ## Future Enhancements
 - Database integration
